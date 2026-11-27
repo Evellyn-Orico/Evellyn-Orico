@@ -30,7 +30,7 @@
 
 ## 🛠️ Ferramentas & Tecnologias
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman,linux" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,linux" />
 </p>
 
 ---
