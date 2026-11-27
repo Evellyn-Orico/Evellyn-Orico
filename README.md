@@ -8,7 +8,7 @@
 
 ---
 
-### 🚀 Atualmente estou aprendendo:
+### 🚀 Atualmente estou aprendendo
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
@@ -18,7 +18,7 @@
 
 ---
 
-### 🔧 Já tenho conhecimento em:
+### 🔧 Já tenho conhecimento em
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
@@ -37,7 +37,7 @@
 ---
 
 
-### 📊 Minhas estatísticas do GitHub:
+### 📊 Minhas estatísticas do GitHub
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Evellyn-Orico&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evellyn-Orico&layout=compact&langs_count=7&theme=tokyonight"/>
