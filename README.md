@@ -2,7 +2,8 @@
 
 <p align="center">
   💻 Estudante de <strong>Informática para Internet - IFPE</strong> <br/>
-  🎯 Apaixonado por tecnologia e pelo aprendizado contínuo <br/>
+  🎯  Desenvolvedora apaixonada por tecnologia e aprendizado contínuo, 
+  <br/>focada em transformar ideias em aplicações web modernas e funcionais. <br/>
 </p>
 
 ---
