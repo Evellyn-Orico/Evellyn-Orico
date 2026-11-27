@@ -1,7 +1,7 @@
 <h1 align="center">Olá, me chamo Evellyn 👋</h1>
 
 <p align="center">
-  💻 Estudante de Desenvolvimento de Sistemas no IFPE <br/>
+  💻 Estudante de <strong>Informática para Internet - IFPE</strong> <br/>
   🎯 Apaixonado por tecnologia e pelo aprendizado contínuo <br/>
 </p>
 
